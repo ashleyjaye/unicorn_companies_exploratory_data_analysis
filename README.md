@@ -19,7 +19,7 @@ Coined by Silicon Valley venture capitalist Aileen Lee in a 2013 TechCrunch arti
 Unicorns are frequently found in sectors like technology, software, and financial services that demand substantial capital investment for product or service development and market entry. These companies typically boast large and rapidly expanding customer bases. Their focus on cutting-edge technologies and disruptive market trends enables them to attract substantial funding from venture capital and private equity investors. Since 2013, the number of unicorns has experienced a "meteoric" growth, surging from 39 companies in November 2013 to over 1,000+ companies in December 2022.
 
 # The Task
-The task was to conduct a structured exploration of the [unicorn companies’ dataset](https://github.com/ashleyjaye/unicorn-companies_exploratory-data-analysis/blob/main/unicorn_companies.csv) using a methodical approach called **exploratory data analysis** to assess data quality, detect anomalies and outliers, identify patterns and trends, leverage statistical techniques, and visualize data. 
+The task was to conduct a structured exploration of the [unicorn companies’ dataset](https://github.com/ashleyjaye/unicorn_companies_exploratory_data_analysis/blob/main/unicorn_companies.csv) using a methodical approach called **exploratory data analysis** to assess data quality, detect anomalies and outliers, identify patterns and trends, leverage statistical techniques, and visualize data. 
 
 A crucial component of exploratory data analysis is data visualization. This involves generating visual representations of data which include, but are not limited to, the following:
 - Line Charts
